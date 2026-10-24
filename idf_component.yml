@@ -1,0 +1,14 @@
+version: 1.1.0
+description: LSM6DS3 ESP-IDF Driver by TNY Robotics
+url: https://github.com/TNY-Robotics/lsm6ds3-esp-idf
+repository: https://github.com/TNY-Robotics/lsm6ds3-esp-idf
+issues: https://github.com/TNY-Robotics/lsm6ds3-esp-idf/issues
+maintainers:
+  - "TNY Robotics <contact@tny-robotics.com>"
+tags:
+  - lsm6ds3
+  - mpu
+  - imu
+  - i2c
+  - driver
+  - esp-idf
